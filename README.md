@@ -24,3 +24,5 @@ An Arduino based project for automatic irrigation based on soil moisture levels
 *	Connect the COM pin of relay 3 to the positive terminal of the pump 3
 *	Connect the NO pin of all the 3 relays to the positive terminal of the battery 
 *	Connect the negative terminal of all the 3 pumps to the negative terminal of the battery 
+
+![image](https://github.com/SAKETHVUNKA/Smart_Irrigation_System-Automating_Water_Pumps_based_on_Soil_Moisture_Levels/assets/106236218/cb4465d9-e30d-4542-b36e-c6b7414d72bd)
