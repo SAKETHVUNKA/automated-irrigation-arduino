@@ -1,0 +1,2 @@
+# Smart_Irrigation_System-Automating_Water_Pumps_based_on_Soil_Moisture_Levels
+An Arduino based project for automatic irrigation based on soil moisture levels
